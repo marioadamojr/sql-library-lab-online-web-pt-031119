@@ -36,5 +36,3 @@ CREATE TABLE characters (
   book_id INTEGER,
   character_id INTEGER
 );
-
-character_books (id, book_id, character_id)
