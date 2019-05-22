@@ -1,2 +1,2 @@
-UPDATE characters SET species = 'Martain'
+UPDATE characters SET species = 'Martian'
 ORDER BY id DESC LIMIT 1;
